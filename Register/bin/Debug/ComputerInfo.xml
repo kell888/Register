@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ComputerInfo</name>
+    </assembly>
+    <members>
+        <member name="T:ComputerInfo.Computer">
+            <summary>
+            计算机信息类
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.CpuID">
+            <summary>
+            CPU序列(ID)号
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.MacAddress">
+            <summary>
+            网卡硬件(MAC)地址
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.DiskModel">
+            <summary>
+            硬盘型号
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.DiskPhysicalSN">
+            <summary>
+            硬盘物理序列号
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.SystemDiskSN">
+            <summary>
+            系统盘序列号
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.IpAddress">
+            <summary>
+            IP地址
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.LoginUserName">
+            <summary>
+            操作系统的登录用户名
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.ComputerName">
+            <summary>
+            计算机名
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.SystemType">
+            <summary>
+            系统类型
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.OperationSystem">
+            <summary>
+            操作系统
+            </summary>
+        </member>
+        <member name="F:ComputerInfo.Computer.TotalPhysicalMemory">
+            <summary>
+            物理内存
+            </summary>
+        </member>
+        <member name="M:ComputerInfo.Computer.Instance">
+            <summary>
+            创建计算机信息实例
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.#ctor">
+            <summary>
+            计算机信息类
+            </summary>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetCpuID">
+            <summary>
+            CPU序列(ID)号
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetMacAddress">
+            <summary>
+            网卡硬件(MAC)地址
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetIPAddress">
+            <summary>
+            IP地址
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetDiskModel">
+            <summary>
+            硬盘型号
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetDiskPhysicalSN">
+            <summary>
+            硬盘物理序列号
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetDiskSN(System.String)">
+            <summary>
+            某个驱动盘序列号
+            </summary>
+            <param name="driverID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetUserName">
+            <summary>
+            操作系统的登录用户名 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetSystemType">
+            <summary>
+             系统类型 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetTotalPhysicalMemory">
+            <summary>
+            物理内存 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetComputerName">
+            <summary>
+             计算机名
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComputerInfo.Computer.GetOperationSystem">
+            <summary>
+             操作系统
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,24 @@
+F:\职业生涯\非常有用的东东\Register\Register\obj\Debug\Register.exe
+F:\职业生涯\非常有用的东东\Register\Register\obj\Debug\Register.pdb
+F:\职业生涯\非常有用的东东\Register\Register\bin\Debug\Register.exe
+F:\职业生涯\非常有用的东东\Register\Register\bin\Debug\Register.pdb
+F:\职业生涯\非常有用的东东\Register\Register\bin\Debug\ComputerInfo.dll
+F:\职业生涯\非常有用的东东\Register\Register\bin\Debug\ComputerInfo.pdb
+F:\职业生涯\非常有用的东东\Register\Register\bin\Debug\ComputerInfo.xml
+F:\职业生涯\非常有用的东东\Register\Register\obj\Debug\ResolveAssemblyReference.cache
+F:\职业生涯\非常有用的东东\Register\Register\obj\Debug\Register.RegRequest.resources
+F:\职业生涯\非常有用的东东\Register\Register\obj\Debug\Register.Properties.Resources.resources
+F:\职业生涯\非常有用的东东\Register\Register\bin\Debug\Register.exe.config
+F:\职业生涯\非常有用的东东\Register\Register\obj\Debug\GenerateResource.read.1.tlog
+F:\职业生涯\非常有用的东东\Register\Register\obj\Debug\GenerateResource.write.1.tlog
+F:\2015 Backup\Register\Register\bin\Debug\Register.exe.config
+F:\2015 Backup\Register\Register\obj\Debug\Register.exe
+F:\2015 Backup\Register\Register\obj\Debug\Register.pdb
+F:\2015 Backup\Register\Register\bin\Debug\Register.exe
+F:\2015 Backup\Register\Register\bin\Debug\Register.pdb
+F:\2015 Backup\Register\Register\bin\Debug\ComputerInfo.pdb
+F:\2015 Backup\Register\Register\bin\Debug\ComputerInfo.xml
+F:\2015 Backup\Register\Register\obj\Debug\Register.csprojResolveAssemblyReference.cache
+F:\2015 Backup\Register\Register\obj\Debug\Register.RegRequest.resources
+F:\2015 Backup\Register\Register\obj\Debug\Register.Properties.Resources.resources
+F:\2015 Backup\Register\Register\obj\Debug\Register.csproj.GenerateResource.Cache

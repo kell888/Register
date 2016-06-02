@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Register.Form1.resources
+obj\Debug\Register.Properties.Resources.resources
+obj\Debug\Register.csproj.GenerateResource.Cache
+bin\Debug\Register.exe
+bin\Debug\Register.pdb
+bin\Debug\ComputerInfo.dll
+bin\Debug\ComputerInfo.pdb
+bin\Debug\ComputerInfo.xml
+obj\Debug\Register.exe
+obj\Debug\Register.pdb
